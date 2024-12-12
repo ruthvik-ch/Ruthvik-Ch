@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Ruthvik CH
 - 👀 I’m interested in DSA, Development.
-- 🌱 I’m currently a Computer Science Student.
+- 🌱 I’m currently a Software engineer.
 - 📫 How to reach me ...
 1.My Portfolio : ruthvik.ml
 <!---
