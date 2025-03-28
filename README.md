@@ -3,7 +3,7 @@
 - 👀 I’m interested in DSA, Development.
 - 🌱 I’m currently a Software engineer.
 - 📫 How to reach me.
-- 1.My Portfolio : [https://ruthvik-ch.github.io/portfolio/](https://ruthvik-ch.github.io/portfolio/)
+- 😎 My Portfolio : [https://ruthvik-ch.github.io/portfolio/](https://ruthvik-ch.github.io/portfolio/)
 
   My Old account - https://github.com/ruthvikch
 <!---
