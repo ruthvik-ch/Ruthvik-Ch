@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @Ruthvik CH
+- 👋 Hi, I’m Ruthvik
 - 👀 I’m interested in DSA, Development.
-- 🌱 I’m currently a Software engineer.
+- 🌱 I’m currently a Software engineer at Chubb.
 - 📫 How to reach me.
 - 😎 My Portfolio : [https://ruthvik-ch.github.io/portfolio/](https://ruthvik-ch.github.io/portfolio/)
 
