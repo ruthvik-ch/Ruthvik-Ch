@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ruthvik</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://ruthvik-ch.github.io/portfolio](https://ruthvik-ch.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://ruthvik-ch.github.io/portfolio-basic](https://ruthvik-ch.github.io/portfolio-basic)
 
 - 📫 How to reach me **rkexp1@gmail.com**
 
