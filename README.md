@@ -22,6 +22,9 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,dotnet,azure,spring,bootstrap,scss,github,git,html,css,js,ts,cpp,java,python,mysql,visualstudio,vscode&theme=light" />
 </p>
+
+---
+
 ## 🏆 Achievements & Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ruthvik-ch&theme=radical&no-frame=true&row=1&column=7" />
