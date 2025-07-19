@@ -4,7 +4,7 @@
 
 I craft **clean, scalable, and fast web apps** — from **snappy Angular frontends** to **robust .NET APIs** — and love building things that actually make life easier.  
 ✨ _Coding, mentoring, and turning “impossible” tasks into production-ready solutions._  
-
+👀 **Portfolio:** [portfolio-git-master-rkexp.vercel.app](https://portfolio-git-master-rkexp.vercel.app)  
 ---
 
 ## 🚀 Tech Playground
@@ -58,9 +58,10 @@ Check it out: [Portfolio Template](https://github.com/ruthvik-ch/portfolio)
 ---
 
 ## 🎉 Fun Facts
-- 🏎 F1 enthusiast – Speed fuels my weekends.  
+- 🏎 F1 enthusiast – Speed fuels my weekends.
+- 🎧 Runs on music & curiosity.  
 - 🎨 Artist – I love minimal creative design.  
-- 🎵 Runs on music & curiosity. 
+
 
 ---
 
