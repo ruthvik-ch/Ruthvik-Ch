@@ -1,6 +1,6 @@
 # Hey, I’m Ruthvik! 👋
 
-**Full Stack Developer | Angular + .NET + Azure | Problem-Solver**  
+**Full Stack Developer | Angular + .NET + Azure**  
 
 I craft **clean, scalable, and fast web apps** — from **snappy Angular frontends** to **robust .NET APIs** — and love building things that actually make life easier.  
 ✨ _Coding, mentoring, and turning “impossible” tasks into production-ready solutions._  
@@ -8,15 +8,15 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 ---
 
 ## 🚀 Tech Playground
-- **Frontend:** Angular, SCSS, Bootstrap  
-- **Backend:** .NET Core, REST APIs  
-- **Cloud & DB:** Azure, SQL Server, GitHub Actions  
-- **Extras:** HighCharts, CI/CD, DSA, System Design  
+- **Frontend:** Angular, Material UI
+- **Backend:** .NET Core, Spring Boot, Node Js, REST APIs
+- **Cloud & DB:** Azure, SQL Server
+- **Other:** Flask, CI/CD, DSA, System Design  
 
 ---
 
 ## 🌟 Featured Projects
-- **[Portfolio Website](https://ruthvik-ch.vercel.app)** – Angular-based portfolio with a JSON-driven content system.  
+- **[Portfolio Website](https://portfolio-git-master-rkexp.vercel.app)** – Angular-based portfolio with a JSON-driven content system.  
 - **Invoicing + Inventory App** – Responsive billing & inventory management for a jewelry store, with dynamic dashboards.  
 
 ---
@@ -46,14 +46,7 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 ## 📬 Let’s Connect
 - **Email:** rkexp1@gmail.com  
 - **LinkedIn:** [linkedin.com/in/ruthvik-ch](https://www.linkedin.com/in/ruthvik-ch/)  
-- **Portfolio:** [ruthvik-ch.vercel.app](https://ruthvik-ch.vercel.app)  
-
----
-
-## 🎉 Fun Facts
-- 🏎 F1 enthusiast – Speed fuels my weekends.  
-- 🎨 Artist – I love minimal creative design.  
-- ☕ Runs on coffee & curiosity.  
+- **Portfolio:** [portfolio-git-master-rkexp.vercel.app](https://portfolio-git-master-rkexp.vercel.app)  
 
 ---
 
@@ -64,6 +57,15 @@ Check it out: [Portfolio Template](https://github.com/ruthvik-ch/portfolio)
 
 ---
 
+## 🎉 Fun Facts
+- 🏎 F1 enthusiast – Speed fuels my weekends.  
+- 🎨 Artist – I love minimal creative design.  
+- ☕ Runs on coffee & curiosity.  
+
+---
+
+
+
 <p align="center">
-  <em>Made with ❤️ + ☕ by Ruthvik</em>
+  <em>Made with ❤ by Ruthvik</em>
 </p>
