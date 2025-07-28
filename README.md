@@ -1,6 +1,6 @@
 # Hey, I’m Ruthvik! 👋
 
-**Full Stack Developer | Angular + .NET + Azure | Problem-Solver**  
+**Full Stack Developer | Angular + .NET + Spring Boot + Azure | Problem-Solver**  
 
 I craft **clean, scalable, and fast web apps** — from **snappy Angular frontends** to **robust .NET APIs** — and love building things that actually make life easier.  
 ✨ _Coding, mentoring, and turning “impossible” tasks into production-ready solutions._  
