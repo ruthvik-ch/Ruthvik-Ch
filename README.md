@@ -5,7 +5,7 @@
 I craft **clean, scalable, and fast web apps** — from **snappy Angular frontends** to **robust .NET APIs** — and love building things that actually make life easier.  
 ✨ _Coding, mentoring, and turning “impossible” tasks into production-ready solutions._  
 
-👀 **View my portfolio:** [portfolio-git-master-rkexp.vercel.app](https://portfolio-git-master-rkexp.vercel.app)  
+👀 **View my portfolio:** [ruthvik-ch.netlify.app](https://ruthvik-ch.netlify.app)  
 
 ---
 
