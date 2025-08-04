@@ -35,7 +35,7 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 
 
 ## 🌟 Featured Projects
-- **[Portfolio Website](https://portfolio-git-master-rkexp.vercel.app)** – Angular-based portfolio with a JSON-driven content system.  
+- **[Portfolio Website](https://ruthvik-ch.netlify.app)** – Angular-based portfolio with a JSON-driven content system.  
 - **Invoicing + Inventory App** – Responsive billing & inventory management for a jewelry store, with dynamic dashboards.  
 
 ---
@@ -51,13 +51,13 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 ## 📬 Let’s Connect
 - **Email:** rkexp1@gmail.com  
 - **LinkedIn:** [linkedin.com/in/ruthvik-ch](https://www.linkedin.com/in/ruthvik-ch/)  
-- **Portfolio:** [portfolio-git-master-rkexp.vercel.app](https://portfolio-git-master-rkexp.vercel.app)  
+- **Portfolio:** [ruthvik-ch.netlify.app](https://ruthvik-ch.netlify.app)  
 
 ---
 
 ## 🛠 Wanna Try My Portfolio Template?
 This portfolio is **100% JSON-driven.**  
-**Edit one file → Deploy on Vercel → Boom! Your brand is live.**  
+**Edit one file → Deploy on Netlify / Vercel → Boom! Your brand is live.**  
 Check it out: [Portfolio Template](https://github.com/ruthvik-ch/portfolio)
 
 ---
