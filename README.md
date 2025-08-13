@@ -55,18 +55,10 @@ I craft **clean, scalable, and fast web apps** — from **snappy Angular fronten
 
 ---
 
-## 🛠 Wanna Try My Portfolio Template?
+## 🛠 Wanna Try this Portfolio Template?
 This portfolio is **100% JSON-driven.**  
 **Edit one file → Deploy on Netlify / Vercel → Boom! Your brand is live.**  
 Check it out: [Portfolio Template](https://github.com/ruthvik-ch/portfolio)
-
----
-
-## 🎉 Fun Facts
-- 🏎 F1 enthusiast – Speed fuels my weekends.
-- 🎧 Runs on music & curiosity.  
-- 🎨 Artist – I love minimal creative design.  
-
 
 ---
 
