@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Angular + .NET + Spring Boot + Azure | Problem-Solver**  
 
-I craft **clean, scalable, and fast web apps** — from **snappy Angular frontends** to **robust .NET APIs** — and love building things that actually make life easier.  
+I craft **clean, scalable, and fast web apps** — from **snappy frontends** to **robust APIs** — and love building things that actually make life easier.  
 ✨ _Coding, mentoring, and turning “impossible” tasks into production-ready solutions._  
 
 👀 **View my portfolio:** [ruthvik-ch.netlify.app](https://ruthvik-ch.netlify.app)  
